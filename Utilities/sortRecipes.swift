@@ -2,7 +2,7 @@
 //  sortRecipe.swift
 //  MyPantry
 //
-//  Created by Kacper Domagała on 18/11/2024.
+//  Created by  on 18/11/2024.
 //
 
 import Foundation
