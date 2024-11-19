@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  MyPantry
-//
-//  Created by Kacper Domagała on 15/11/2024.
-//
+
 import SwiftUI
 import Firebase
 import FirebaseFirestore
